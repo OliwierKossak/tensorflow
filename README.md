@@ -1,7 +1,8 @@
 My projects created with using tensorflow.
 
-Project 1:
+lion_and_cheetah:
 Used convolutional neural network and binary classification to recognize if image is photo of lion or cheetah.
 
-Project 2:
+
+fruits_classification:
 Convolutional neural network that is trained for multiclass classification to recognize fruits: banana, orange, apple
